@@ -109,7 +109,7 @@ images/
 
 A complete hardware demonstration is available on YouTube.
 
-Link:
+Link: https://youtu.be/iMbRWXBeWAU
 
 ## Simulation
 
